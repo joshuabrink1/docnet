@@ -27,4 +27,5 @@
   </ItemGroup>
 
   <Import Project="..\Docnet.Core\build\net45\Docnet.Core.targets" />
+  <Import Project="..\Docnet.Core\build\net48\Docnet.Core.targets" />
 </Project>
